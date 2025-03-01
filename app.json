@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Registration_Form",
-    "slug": "Registration_Form",
+    "slug": "midtermregistrationform",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8ff5e0b6-3199-4bc0-a27a-1d41dc0bd9c8"
+      }
+    },
+    "owner": "psolis18"
   }
 }
